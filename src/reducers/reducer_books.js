@@ -1,8 +1,8 @@
 export default function(){
   return[
     {title: 'Slappy Potter'},
-    {title: 'JavaPrips'},
-    {title: 'Lurker at the Threshhold'},
+    {title: 'JavaStrips'},
+    {title: 'Lurker at the Threshold'},
     {title: 'Occult Apps'}
   ]
 }
